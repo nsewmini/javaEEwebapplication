@@ -50,7 +50,7 @@ cookieverify obj=new cookieverify();
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
-  <div class="sidebar">
+  <div class="navbar">
     <div class="logo-details">
       <i class='bx bxl-c-plus-plus'></i>
       <span class="logo_name">Phoenix <br>Airline</span>
@@ -104,7 +104,7 @@ cookieverify obj=new cookieverify();
   </div>
   <section class="home-section">
     <nav>
-      <div class="sidebar-button">
+      <div class="sidebar">
         <i class='bx bx-menu sidebarBtn'></i>
         <span class="dashboard">Dashboard</span>
       </div>
@@ -121,72 +121,7 @@ cookieverify obj=new cookieverify();
 
   
     <div class="home-content">
-      <div class="overview-boxes">
-        <div class="box">
-          <div class="right-side">
-               <div class="box-topic">Total G1 Staff Members</div>
-            <div class="number">
-                <%
-                dbconnect obje =new dbconnect();
-                String G1empcount=obje.G1empcount();
-                out.print(G1empcount);
-                %>
-            </div>
-            <div class="indicator">
-              <i class='bx bx-up-arrow-alt'></i>
-              <span class="text">Up from now</span>
-            </div>
-          </div>
-          <i class='bx bx-cart-alt cart'></i>
-        </div>
-        <div class="box">
-          <div class="right-side">
-             <div class="box-topic">Total Bookings</div>
-            <div class="number">
-            <%
-                String flightbookcount=obje.flightbookcount();
-                out.print(flightbookcount);
-                %>
-            </div>
-            <div class="indicator"> 
-              <i class='bx bx-up-arrow-alt'></i>
-              <span class="text">Up from now</span>
-            </div>
-          </div>
-          <i class='bx bxs-cart-add cart two' ></i>
-        </div>
-        <div class="box">
-          <div class="right-side">
-            <div class="box-topic">Total Users</div>
-            <div class="number"><%
-                String usercount=obje.usercount();
-                out.print(usercount);
-                %></div>
-            <div class="indicator">
-              <i class='bx bx-up-arrow-alt'></i>
-              <span class="text">Up from now</span>
-            </div>
-          </div>
-          <i class='bx bx-cart cart three' ></i>
-        </div>
-        <div class="box">
-          <div class="right-side">
-            <div class="box-topic">Total G2 Staff Members</div>
-            <div class="number"><%
-                String G2empcount=obje.G2empcount();
-                out.print(G2empcount);
-                %></div>
-            <div class="indicator">
-              <i class='bx bx-down-arrow-alt down'></i>
-              <span class="text">Up from now</span>
-            </div>
-          </div>
-          <i class='bx bxs-cart-download cart four' ></i>
-        </div>
-      </div>
-
-
-      <div class="sales-boxes">
+       <div class="sales-boxes">
         <div class="recent-sales box">
           <div class="title">User Details</div>
 <%@page import="java.io.PrintWriter"%>
@@ -200,7 +135,7 @@ cookieverify obj=new cookieverify();
           
         List<model.userdetailsbean> list=model.dbconnect.getuserdetails();  
           
-        out.print("<table border='1' width='100%'");  
+        out.print("<table width='100%'");  
         out.print("<tr><th>Username</th><th>Fullname</th><th>Email</th><th>Password</th><th></th><th></th><th></th>");  
         for(model.userdetailsbean e:list){  
          out.print("<tr><td>"+"&nbsp "+e.getusername()+"</td><td>"+"&nbsp"+e.getfullname()+"</td><td>"+"&nbsp "+e.getemail()+"</td><td>"+"&nbsp "+e.getpassword()+"</td><td> <form action='./deleteusers' method='post'><input type='hidden' name='username' value="+e.getusername()+"> <input type='submit' value='Delete'>  </form></td></tr>");  
