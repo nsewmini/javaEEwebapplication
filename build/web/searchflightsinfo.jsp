@@ -1,8 +1,4 @@
-<%-- 
-    Document   : searchflightsinfo
-    Created on : May 9, 2022, 4:38:52 AM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
