@@ -1,8 +1,3 @@
-<%-- 
-    Document   : dashboardstaff_02
-    Created on : May 9, 2022, 4:42:54 AM
-    Author     : IS Rachinthana
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import  = "javax.servlet.http.Cookie"%>
