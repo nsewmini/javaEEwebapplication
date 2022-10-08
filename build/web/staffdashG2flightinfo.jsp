@@ -1,8 +1,4 @@
-<%-- 
-    Document   : staffdashG2flightinfo
-    Created on : May 20, 2022, 7:58:00 PM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
