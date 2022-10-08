@@ -1,8 +1,3 @@
-<%-- 
-    Document   : staffdashG1flightinfo
-    Created on : May 20, 2022, 2:56:27 AM
-    Author     : IS Rachinthana
---%>
 
 <%@page import  = "javax.servlet.http.Cookie"%>
  <%@page import  = "java.io.PrintWriter"%>
