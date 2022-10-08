@@ -37,7 +37,18 @@ password: 123456
 ![image](https://user-images.githubusercontent.com/98662905/194707512-579b28c6-4105-4652-954f-37f9a597e961.png)
 
 # Grade one staff Dashboard
-![image](https://user-images.githubusercontent.com/98662905/194708869-baaff88d-7557-4ec7-8aa9-82060d00f8d4.png | height=1000)
+![photo_2022-10-08_18-06-00](https://user-images.githubusercontent.com/98662905/194709587-ee490312-884b-4e3d-b37f-5745d102a650.jpg)
+![userdetails](https://user-images.githubusercontent.com/98662905/194709596-ad7a1677-8de9-471f-bcf3-8b4075ad0320.jpg)
+
+![photo_2022-10-08_18-06-19](https://user-images.githubusercontent.com/98662905/194709614-cbaebe8c-eb05-4041-b4c5-a6728145317d.jpg)
+![flightinformatiionicon](https://user-images.githubusercontent.com/98662905/194709662-d1cc977f-94d7-47b1-832f-e73008f50535.jpg)
+
+
+![photo_2022-10-08_18-09-03](https://user-images.githubusercontent.com/98662905/194709695-87d55f5c-eee5-4b79-9254-b93094904709.jpg)
+![ticket_details](https://user-images.githubusercontent.com/98662905/194709698-2ac92ee4-aaa8-4e15-a364-03d2701bd948.jpg)
+
+![photo_2022-10-08_18-06-29](https://user-images.githubusercontent.com/98662905/194709713-1285e8f9-4428-4d70-81a1-c9ec929ecd52.jpg)
+![contactmsg](https://user-images.githubusercontent.com/98662905/194709725-142b29b8-42f7-4909-a47a-167a952b9d25.jpg)
 
 
 
