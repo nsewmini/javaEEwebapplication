@@ -1,9 +1,3 @@
-<%-- 
-    Document   : autogenarateticketID
-    Created on : May 22, 2022, 12:19:24 AM
-    Author     : IS Rachinthana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
  <%@page import="java.lang.Math"%>
  <%@page import  = "javax.servlet.http.Cookie"%>
