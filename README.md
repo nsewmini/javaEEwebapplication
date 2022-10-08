@@ -36,4 +36,8 @@ password: 123456
 ![WhatsApp Image 2022-10-07 at 10 52 21 AM](https://user-images.githubusercontent.com/98662905/194707402-3db32f46-0c00-4b2a-9dc7-7cf493432124.jpeg)
 ![image](https://user-images.githubusercontent.com/98662905/194707512-579b28c6-4105-4652-954f-37f9a597e961.png)
 
+# Grade one staff Dashboard
+![image](https://user-images.githubusercontent.com/98662905/194708627-79cb3f85-7310-4d28-ba0c-9c6de9629e7b.png)
+
+
 
