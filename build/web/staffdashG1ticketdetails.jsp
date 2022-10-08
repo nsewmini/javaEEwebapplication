@@ -1,8 +1,4 @@
-<%-- 
-    Document   : staffdashticketdetails
-    Created on : May 22, 2022, 4:48:16 PM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import  = "javax.servlet.http.Cookie"%>
