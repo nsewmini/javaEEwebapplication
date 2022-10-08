@@ -37,7 +37,7 @@ password: 123456
 ![image](https://user-images.githubusercontent.com/98662905/194707512-579b28c6-4105-4652-954f-37f9a597e961.png)
 
 # Grade one staff Dashboard
-![image](https://user-images.githubusercontent.com/98662905/194708869-baaff88d-7557-4ec7-8aa9-82060d00f8d4.png)[height=100]
+![image](https://user-images.githubusercontent.com/98662905/194708869-baaff88d-7557-4ec7-8aa9-82060d00f8d4.png | height=1000)
 
 
 
