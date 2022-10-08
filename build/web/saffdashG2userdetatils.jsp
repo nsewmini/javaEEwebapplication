@@ -1,8 +1,4 @@
-<%-- 
-    Document   : saffdashG2userdetatils
-    Created on : May 20, 2022, 5:53:31 AM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page import  = "javax.servlet.http.Cookie"%>
  <%@page import  = "java.io.PrintWriter"%>
