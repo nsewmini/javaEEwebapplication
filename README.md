@@ -57,11 +57,30 @@ password: 123456
 
 
 ![photo_2022-10-08_18-06-45](https://user-images.githubusercontent.com/98662905/194709851-194be4b8-a0c2-4f9c-ad0b-cdbfbf9f9de6.jpg)
-![ticket_details](https://user-images.githubusercontent.com/98662905/194710072-90dd18e1-2e5a-46f9-8c23-0a034015ae51.jpg)
-
+![userdetails](https://user-images.githubusercontent.com/98662905/194709596-ad7a1677-8de9-471f-bcf3-8b4075ad0320.jpg)
 
 ![photo_2022-10-08_18-07-06](https://user-images.githubusercontent.com/98662905/194709921-edf73c1f-0f73-4b58-998d-ccba829e7657.jpg)
 ![bookflight](https://user-images.githubusercontent.com/98662905/194709939-4ea7da49-4501-4970-95d7-b239c9423a20.jpg)
+
+
+# Admin Dashboard
+
+![photo_2022-10-08_18-07-13](https://user-images.githubusercontent.com/98662905/194710185-19307dc7-3727-4669-9b66-678010cd8d91.jpg)
+![temp_staff_details](https://user-images.githubusercontent.com/98662905/194710190-e37d2a72-463e-45f9-ac2a-1aef8fce5415.jpg)
+
+![photo_2022-10-08_18-07-19](https://user-images.githubusercontent.com/98662905/194710206-91a39435-a5dc-4f0a-83fc-7d88adef9e73.jpg)
+![userdetails](https://user-images.githubusercontent.com/98662905/194709596-ad7a1677-8de9-471f-bcf3-8b4075ad0320.jpg)
+
+![photo_2022-10-08_18-07-24](https://user-images.githubusercontent.com/98662905/194710227-c1229417-1a6b-4541-9674-84ee025ed932.jpg)
+![bookflight](https://user-images.githubusercontent.com/98662905/194710244-f4ea59d8-05a9-4080-a0a5-883c18baf4d1.jpg)
+ 
+ ![photo_2022-10-08_18-07-31](https://user-images.githubusercontent.com/98662905/194710260-07869e32-5c8d-4d25-a1c0-d2a5278db552.jpg)
+![grade01staff](https://user-images.githubusercontent.com/98662905/194710271-04c762fc-fac8-4307-9bf6-f4f3ec2b5ce2.jpg)
+
+![photo_2022-10-08_18-07-38](https://user-images.githubusercontent.com/98662905/194710288-5bc21405-879e-4d91-ba79-c244fb7918ed.jpg)
+![grade02staff](https://user-images.githubusercontent.com/98662905/194710297-fdd65e38-5596-4672-92b3-f7535f094aa7.jpg)
+
+![photo_2022-10-08_18-07-51](https://user-images.githubusercontent.com/98662905/194710330-5c173581-18ad-469d-95cf-aa2d8f0b28d4.jpg)
 
 
 
