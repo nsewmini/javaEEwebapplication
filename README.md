@@ -27,3 +27,6 @@ password: 123456
 ![WhatsApp Image 2022-10-07 at 9 36 50 AM](https://user-images.githubusercontent.com/98662905/194707304-e9de9f9a-882c-497f-b0b7-e82b6009ab70.jpeg)
 ![WhatsApp Image 2022-10-07 at 9 37 42 AM](https://user-images.githubusercontent.com/98662905/194707316-57ed8921-1c54-4c11-b358-d146a79b3c8e.jpeg)
 ![WhatsApp Image 2022-10-07 at 9 38 48 AM](https://user-images.githubusercontent.com/98662905/194707326-42dc93f9-6251-4586-b0b5-06e469d76235.jpeg)
+
+![WhatsApp Image 2022-10-07 at 10 59 13 AM](https://user-images.githubusercontent.com/98662905/194707390-9d0d96b6-0e05-48f7-864e-4d3664e306c5.jpeg)
+![WhatsApp Image 2022-10-07 at 10 52 21 AM](https://user-images.githubusercontent.com/98662905/194707402-3db32f46-0c00-4b2a-9dc7-7cf493432124.jpeg)
