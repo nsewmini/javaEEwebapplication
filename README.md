@@ -57,7 +57,8 @@ password: 123456
 
 
 ![photo_2022-10-08_18-06-45](https://user-images.githubusercontent.com/98662905/194709851-194be4b8-a0c2-4f9c-ad0b-cdbfbf9f9de6.jpg)
-![photo_2022-10-08_18-06-45](https://user-images.githubusercontent.com/98662905/194709882-c18b8e43-808d-4f66-b335-c3a554bc49a7.jpg)
+![ticket_details](https://user-images.githubusercontent.com/98662905/194710072-90dd18e1-2e5a-46f9-8c23-0a034015ae51.jpg)
+
 
 ![photo_2022-10-08_18-07-06](https://user-images.githubusercontent.com/98662905/194709921-edf73c1f-0f73-4b58-998d-ccba829e7657.jpg)
 ![bookflight](https://user-images.githubusercontent.com/98662905/194709939-4ea7da49-4501-4970-95d7-b239c9423a20.jpg)
