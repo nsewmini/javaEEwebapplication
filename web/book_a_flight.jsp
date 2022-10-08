@@ -1,8 +1,4 @@
-<%-- 
-    Document   : book_a_flight
-    Created on : May 9, 2022, 4:37:42 AM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="model.dbconnect"%>
