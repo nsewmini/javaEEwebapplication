@@ -106,7 +106,6 @@
     </div>
   </div>
 <script type="text/javascript" src="./js/script_index.js">
-  var video = document.getElementById("myVideo");
 </script>
 </body>
 </html>
