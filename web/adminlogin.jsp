@@ -1,9 +1,3 @@
-<%-- 
-    Document   : adminlogin
-    Created on : May 8, 2022, 6:37:26 PM
-    Author     : IS Rachinthana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import  = "javax.servlet.http.Cookie"%>
  <%@page import  = "java.io.PrintWriter"%>
