@@ -1,9 +1,3 @@
-  <%-- 
-    Document   : flight_status
-    Created on : May 13, 2022, 1:49:57 PM
-    Author     : IS Rachinthana
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="model.dbconnect"%>
 <%@page import="javax.servlet.http.Cookie"%>
