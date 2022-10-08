@@ -129,7 +129,6 @@ jQuery(document).ready(function($){
 });
 
 
-//credits https://css-tricks.com/snippets/jquery/move-cursor-to-end-of-textarea-or-input/
 jQuery.fn.putCursorAtEnd = function() {
   return this.each(function() {
       // If this function exists...
