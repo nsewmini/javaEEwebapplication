@@ -1,8 +1,4 @@
-<%-- 
-    Document   : staffdashusersmsg
-    Created on : May 23, 2022, 8:19:23 PM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
