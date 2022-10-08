@@ -1,8 +1,4 @@
-<%-- 
-    Document   : staffdashG2bookinginfo
-    Created on : May 20, 2022, 8:40:09 PM
-    Author     : IS Rachinthana
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
