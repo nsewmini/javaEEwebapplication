@@ -36,11 +36,13 @@ User Profile
 ![WhatsApp Image 2022-10-07 at 10 59 13 AM](https://user-images.githubusercontent.com/98662905/194707390-9d0d96b6-0e05-48f7-864e-4d3664e306c5.jpeg)
 User Login And Registration
 ![WhatsApp Image 2022-10-07 at 10 52 21 AM](https://user-images.githubusercontent.com/98662905/194707402-3db32f46-0c00-4b2a-9dc7-7cf493432124.jpeg)
-![image](https://user-images.githubusercontent.com/98662905/194707512-579b28c6-4105-4652-954f-37f9a597e961.png)
+![image](https://user-images.githubusercontent.com/98662905/194715473-fcd6ee64-ff46-4e03-97cd-e3d61decf5f9.png)
 
-# Grade one staff Dashboard
+
+# Grade one & two staff registration
 staff Registration
 ![image](https://user-images.githubusercontent.com/98662905/194714625-a584e90f-4b32-46f6-876b-83b72e0be161.png)
+# Grade one staff Dashboard
 user details and database userdetails table 
 ![photo_2022-10-08_18-06-00](https://user-images.githubusercontent.com/98662905/194709587-ee490312-884b-4e3d-b37f-5745d102a650.jpg)
 ![userdetails](https://user-images.githubusercontent.com/98662905/194709596-ad7a1677-8de9-471f-bcf3-8b4075ad0320.jpg)
